@@ -1,6 +1,8 @@
 # Hi, I'm Linas Andrijauskas 👋
 <p align="center">
-  <img src="https://z-p3-scontent.fvno1-1.fna.fbcdn.net/v/t39.30808-6/362290808_1759260974488641_6825635502547896451_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tk9Lv2h2ufsAX8kv-ia&_nc_ht=z-p3-scontent.fvno1-1.fna&oh=00_AfA1NR5U_9nX8EpfXbFPPQaxcW7Q-47M0vFhoz37jVJ3Zw&oe=66134EBD" alt="Profile picture" width="200" height="200">
+  <picture>
+    <img src="https://z-p3-scontent.fvno1-1.fna.fbcdn.net/v/t39.30808-6/362290808_1759260974488641_6825635502547896451_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tk9Lv2h2ufsAX8kv-ia&_nc_ht=z-p3-scontent.fvno1-1.fna&oh=00_AfA1NR5U_9nX8EpfXbFPPQaxcW7Q-47M0vFhoz37jVJ3Zw&oe=66134EBD"  width="200" height="200">
+  </picture>
 </p>
 I'm a junior full stack developer, always striving to learn new things and improve my skills.
 
