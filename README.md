@@ -7,9 +7,9 @@
 I'm a junior full stack developer, always striving to learn new things and improve my skills.
 
 ## 🛠️ My tech stack
-- HTML, CSS, and Java for front-end development
-- JavaScript, JSON, jQuery, Spring, Apache, REST, and API for back-end development
-- MySQL for database management
+- HTML, CSS, and JavaScript for front-end development
+- Java, JSON, jQuery, Spring, Apache, REST, and API for back-end development
+- MySQL, PostgreSQL for database management
 
 ## 🌱 What I'm learning
 - How to create mobile games and apps with Flutter and Dart
